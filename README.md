@@ -1,4 +1,4 @@
-#   Flask: Patio de juegos
+#   Flask: Tablero de ajedrez
 
 ## Contenido
 ~~~
